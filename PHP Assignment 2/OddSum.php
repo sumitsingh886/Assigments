@@ -9,5 +9,5 @@
     {
         $sum += $i;
     }
-    print("<h3>sum of all natural numbers from 1 to $n is : $sum</h3>")
+    print("<h3>sum of all odd numbers from 1 to $n is : $sum</h3>")
 ?>
